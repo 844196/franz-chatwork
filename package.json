@@ -1,0 +1,23 @@
+{
+  "name": "Chatwork",
+  "version": "1.0.0",
+  "description": "chatwork",
+  "main": "index.js",
+  "author": "Masaya Takeda <844196@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.chatwork.com/login.php",
+    "serviceName": "Chatwork",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
